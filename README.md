@@ -50,7 +50,7 @@ Initially we were not able to detect how we will be able to scrape data out of t
 8. Git
 9. PostgreSQL
 10. Flask
-
+    
 # Installation 🔃
 
 - Make sure you have the following installed.
@@ -73,9 +73,9 @@ pip install imaplib
 ```bash
 pip install selenium
 ```
-- Install joblib 
+- Install pickle 
 ```bash
-pip install selenium
+pip install pickle
 ```
 - Install bs4
 ```bash
@@ -83,3 +83,4 @@ pip install bs4
 ```
 - This code will only run in microsoft edge web browser, to run you must have microsoft edge web driver, to download click [Microsoft Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/).
 - After downloading the file copy the path of the .exe file and paste in the variable *edge_driver_path*.
+
